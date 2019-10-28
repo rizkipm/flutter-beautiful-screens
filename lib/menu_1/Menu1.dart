@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//mantap djiwa cuyy
 class Menu1 extends StatefulWidget {
   @override
   _Menu1State createState() => _Menu1State();
@@ -29,7 +30,7 @@ class _Menu1State extends State<Menu1> {
               ),
               Padding(
                 padding: const EdgeInsets.only(left: 24),
-                child: Text('Menu',
+                child: Text('Menu Utama',
                     style: TextStyle(
                         fontSize: 24,
                         color: Colors.white,
